@@ -54,9 +54,9 @@ window.WORKS = [
     thumbnail: "assets/works/beilou-cover.png",
     role: "策划 + 拍摄 + 后期",
     date: "2026",
-    videoLink: "https://pan.baidu.com/s/1blgAC59jr6S5gQyVSI_GxQ?pwd=7vxp",
+    videoLink: "https://pan.baidu.com/s/1GQz7Ip_oPejlCFjfNFH3Bg?pwd=jxx4",
     duration: "纪录短片",
-    extractCode: "7vxp"
+    extractCode: "jxx4"
   },
   {
     id: "work-05",
@@ -72,16 +72,5 @@ window.WORKS = [
     videoLink: "https://pan.baidu.com/s/1RiAfHF51fO_8wbRFlA3SIA?pwd=qfp3",
     duration: "参赛短视频",
     extractCode: "qfp3"
-  },
-  {
-    id: "work-06",
-    type: "document",
-    title: "浣花姑娘高新店店长 IP 运营",
-    tagline: "30 天孵化至 8,000+ 播放",
-    description: "从 0 接管浣花姑娘高新店店长抖音号，30 天内策划并投稿 10 条垂直内容，总播放 8,000+、点赞 300+。沉淀选题与发布策略，跑通可复制的店长 IP 孵化路径。",
-    skills: ["IP 孵化", "选题策划", "发布策略", "数据复盘"],
-    thumbnail: "https://picsum.photos/seed/work2-huanhua/600/400",
-    role: "独立运营",
-    date: "2026"
   }
 ];
